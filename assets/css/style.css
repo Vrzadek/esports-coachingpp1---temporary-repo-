@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, header, h1, h2, div, footer {
+    font-family: Oswald, sans-serif;
+    font-weight: 300;
+    color: #3a3a3a  
+}
+
+#logo {
+    float: left;
+    font-size: 270%;
+    letter-spacing: 3px;
+}
+
+/* navbar */
+
+#navbar {
+    font-size: 140%;
+    letter-spacing: 3px;
+}
+
+#navbar, #logo {
+    line-height: 75px;
+}
+
+#navbar li {
+    float: right;
+    list-style-type: none;
+    margin-right: 20px;
+}
+
+#navbar a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#navbar a:hover {
+    border-bottom: 1px solid #3a3a3a;
+}
+
+#hero-outer {
+    height: 37.5rem;
+    width: 100%;
+    overflow: hidden; 
+    position: relative;
+ }
+
+#cover-text, #cover-text h2 {
+    color: #fff;
+}
+ 
+#hero-image {
+    height: 37.5rem;
+    width: 100%;
+    background: url("../images/hero-image1.jpg") no-repeat center center;
+    animation: hero-fade-in 5s;
+    /* animates fade-in effect on loading page */
+}
+ 
+  /* code borrowed from Elaine Broche */
+
+ /* creates fade-in for the hero image */
+ @keyframes hero-fade-in {
+    0% {
+       opacity: 0.5;
+    }
+ 
+    100% {
+       opacity: 1;
+    }
+}
+
+#cover-text {
+    font-size: 270%;
+    letter-spacing: 3px; 
+    padding: 10px; 
+    background-color: rgba(0, 0, 0, 0.7); 
+    position: absolute; 
+    top: 50%; 
+    left: 50%; 
+    transform: translate(-50%, -50%);
+    text-align: center; 
+    text-transform: uppercase;
+}
+
+#cover-text h3 {
+    font-size: 80%;
+    letter-spacing: 1px; 
+}
+    
