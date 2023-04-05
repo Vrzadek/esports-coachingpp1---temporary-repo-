@@ -1,108 +1,142 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+ESPORTS COACHING
+I made this site due to gaming being one of my biggest hobbies. I've been gaming since I were 5 years old which is 26 years back in time.. So when I could mix business with pleasure it was easy to come up with a idea for my first project.
 
-Welcome USER_NAME,
+Add an image of the finished site here. I like to use amiresponsive to get an image of my site on all device sizes, and amiresponsive allows you to click links on the page and scroll, so each device can show a different element of your site.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+Add a link to the live site here, for Milestone 1 this will be the GitHub Pages Link from when you deployed the site.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+CONTENTS
+User Experience
 
-## Gitpod Reminders
+User Stories
+Features
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+General Features on Each Page
+Future Implementations
+Accessibility
+Technologies Used
 
-`python3 -m http.server`
+Languages Used
+Frameworks, Libraries & Programs Used
+Deployment & Local Development
 
-A blue button should appear to click: _Make Public_,
+Deployment
+Local Development
+How to Fork
+How to Clone
+Testing
 
-Another blue button should appear to click: _Open Browser_.
+Credits
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+Code Used
+Content
+Media
+Acknowledgments
+User Experience (UX)
+👩🏻‍💻 View an example of a completed user experience section here
 
-A blue button should appear to click: _Make Public_,
+User Stories
+Add your user stories here. You want to include first time visitors and returning visitors here as a minimum. Think about each group, and the experience and journey you want them to have on your site. It really helps to think about this before you start coding, and will really help with creating your wireframes.
 
-Another blue button should appear to click: _Open Browser_.
+Design
+👩🏻‍💻 View an example of a completed design section here
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+Colour Scheme
+Add all information about your colour scheme for your site here. You can explain why you choose the colours you did?
 
-To log into the Heroku toolbelt CLI:
+I like to include a palette of the colour scheme here, my favourite site for creating a colour palette is coolors, but there are lots of other sites that also do the same thing, like ColorSpace, Muzli Colors, Adobe Colour Wheel and Canva to name a few.
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+Typography
+If you've imported fonts to use in your project, add some information about them here. You can include information like:
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+Why did you choose the font you have? Is this an accessibly friendly font? What weights have you included?
 
-------
+I also like to include an image of the fonts chosen as a reference.
 
-## Release History
+Google Fonts is a popular choice for importing fonts to use in your project, as it doesn't require you to download the fonts to use them.
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+Imagery
+Use this section to explain what sort of imagery you plan to use through your site.
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
+Wireframes
+Add the images or links for your wireframes here.
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
+There are lots of different options to create your wireframes - Code Institute students can access Balsamiq as part of the course.
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
+Some other options include Figma, AdobeXD, Sketch and Mockup to name just a few! Or you can even go old school and get those wireframes completed using pen and paper. Just snap an image of the completed wireframes to add the images to the README.
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
+Features
+👩🏻‍💻 View an example of a completed user experience section here
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
+This section can be used to explain what pages your site is made up of.
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+General features on each page
+If there is a feature that appears on all pages of your site, include it here. Examples of what to include would the the navigation, a footer and a favicon.
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+I then like to add a screenshot of each page of the site here, i use amiresponsive which allows me to grab an image of the site as it would be displayed on mobile, tablet and desktop, this helps to show the responsiveness of the site.
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+Future Implementations
+What features would you like to implement in the future on your site? Would you like to add more pages, or create login functionality? Add these plans here.
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+Accessibility
+Be an amazing developer and get used to thinking about accessibility in all of your projects!
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+This is the place to make a note of anything you have done with accessibility in mind. Some examples include:
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+Have you used icons and added aria-labels to enable screen readers to understand these? Have you ensured your site meets the minimum contrast requirements? Have you chosen fonts that are dyslexia/accessible friendly?
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+Code Institute have an amazing channel for all things accessibility (a11y-accessibility) I would highly recommend joining this channel as it contains a wealth of information about accessibility and what we can do as developers to be more inclusive.
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+Technologies Used
+👩🏻‍💻 View an example of a completed Technologies Used section here
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+Languages Used
+Make a note here of all the languages used in creating your project. For the first project this will most likely just be HTML & CSS.
 
-------
+Frameworks, Libraries & Programs Used
+Add any frameworks, libraries or programs used while creating your project.
 
-## FAQ about the uptime script
+Make sure to include things like git, GitHub, the program used to make your wireframes, any programs used to compress your images, did you use a CSS framework like Bootstrap? If so add it here (add the version used).
 
-**Why have you added this script?**
+A great tip for this section is to include them as you use them, that way you won't forget what you ended up using when you get to the end of your project.
 
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
+Deployment & Local Development
+👩🏻‍💻 View an example of a completed Deployment & Local Development section here
 
-**How will this affect me?**
+Deployment
+Include instructions here on how to deploy your project. For your first project you will most likely be using GitHub Pages.
 
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
+Local Development
+The local development section gives instructions on how someone else could make a copy of your project to play with on their local machine. This section will get more complex in the later projects, and can be a great reference to yourself if you forget how to do this.
 
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
+How to Fork
+Place instructions on how to fork your project here.
 
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
+How to Clone
+Place instructions on how to clone your project here.
 
-**So….?**
+Testing
+Start as you mean to go on - and get used to writing a TESTING.md file from the very first project!
 
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
+Testing requirements aren't massive for your first project, however if you start using a TESTING.md file from your first project you will thank yourself later when completing your later projects, which will contain much more information.
 
-**Can I opt out?**
+Use this part of the README to link to your TESTING.md file - you can view the example TESTING.md file here
 
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
+Credits
+Code Used
+Fade-in animation and cover-text help from Elaine Broche.
+Readme help from Kera Cudmore.
+Content
+All the written content was made by Viktor Rzadek.
 
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
+Media
+Font Awesome for the social-media icons.
+Images are taken from unsplash.com and ...
+Acknowledgments
+Love Running Walkthrough project for all the tips, inspiration and how to get a whole project complete.
 
-**Anything more?**
+My mentor Antonio Rodriguez for his cheering, awesome tips and tricks and much more.
 
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
+Kera Cudmore for this awesome README template.
 
----
-
-Happy coding!
+Elaine Broche for the fade-in animation.
