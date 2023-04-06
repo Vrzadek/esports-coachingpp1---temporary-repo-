@@ -44,6 +44,10 @@ body, header, h1, h2, div, footer {
     border-bottom: 1px solid #3a3a3a;
 }
 
+.active {
+    border-bottom: 1px solid #3a3a3a;
+}
+
 #hero-outer {
     height: 37.5rem;
     width: 100%;
